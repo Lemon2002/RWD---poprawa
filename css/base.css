@@ -1,0 +1,35 @@
+.social-dribble {
+    list-style-image: url("../images/Dribble.png");
+}
+
+.social-dribble:hover {
+    list-style-image: url("../images/Dribble-hover.png");
+}
+
+.social-facebook {
+    list-style-image: url("../images/facebook.png");
+}
+
+.social-facebook:hover {
+    list-style-image: url("../images/facebook-hover.png");
+}
+
+.social-twitter {
+    list-style-image: url("../images/twitter.png");
+}
+
+.social-twitter:hover {
+    list-style-image: url("../images/twitter-hover.png");
+}
+
+.contact-name {
+    list-style-image: url("../images/samolot.jpg");
+}
+
+.contact-phone {
+    list-style-image: url("../images/samolot.jpg");
+}
+
+.contact-email {
+    list-style-image: url("../images/samolot.jpg");
+}
